@@ -1,0 +1,11 @@
+{
+  "name": "visible theme",
+  "description": "A Chrome theme with darker unfocused windows.",
+  "version": "0.1",
+  "manifest_version": 2,
+  "theme": {
+    "colors" : {
+      "frame_inactive" : [159, 163, 164]
+    }
+  }
+}
